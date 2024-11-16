@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see yohola mucnd.</li>
+          <li>aqui esta el cambio.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
